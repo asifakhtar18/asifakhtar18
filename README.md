@@ -99,5 +99,5 @@ Built a website for creating and reviewing **campgrounds** using **Node.js**, **
 ---
 
 🔗 **Let's Connect**:  
-Feel free to reach out to me through email or LinkedIn for collaborations or inquiries.
+Feel free to reach out to me through email or [LinkedIn](https://linkedin.com/in/md-asif-akhtar-9b1971247) for collaborations or inquiries.
 
